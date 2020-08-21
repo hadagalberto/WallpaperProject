@@ -1,0 +1,16 @@
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\bin\Debug\netcoreapp3.1\WallPaper Project.exe
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\obj\Debug\netcoreapp3.1\WallPaper Project.csprojAssemblyReference.cache
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\obj\Debug\netcoreapp3.1\WallPaper Project.AssemblyInfoInputs.cache
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\obj\Debug\netcoreapp3.1\WallPaper Project.AssemblyInfo.cs
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\obj\Debug\netcoreapp3.1\WallPaper Project.csproj.CopyComplete
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\bin\Debug\netcoreapp3.1\WallPaper Project.deps.json
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\bin\Debug\netcoreapp3.1\WallPaper Project.runtimeconfig.json
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\bin\Debug\netcoreapp3.1\WallPaper Project.runtimeconfig.dev.json
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\bin\Debug\netcoreapp3.1\WallPaper Project.dll
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\bin\Debug\netcoreapp3.1\WallPaper Project.pdb
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\obj\Debug\netcoreapp3.1\WallPaper Project.csproj.CoreCompileInputs.cache
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\obj\Debug\netcoreapp3.1\WallPaper Project.dll
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\obj\Debug\netcoreapp3.1\WallPaper Project.pdb
+C:\Users\hadag\source\repos\WallPaper Project\WallPaper Project\obj\Debug\netcoreapp3.1\WallPaper Project.genruntimeconfig.cache

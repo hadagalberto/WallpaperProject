@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hadag\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hadag\\.nuget\\packages"
+    ]
+  }
+}
